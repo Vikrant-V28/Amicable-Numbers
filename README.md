@@ -25,11 +25,11 @@ def amicable (x,y):
 x = 220
 y = 284
 if (amicable(x, y)):
-    print("Yes")
+    print("True")
 else:
-    print("No")
+    print("False")
 ```
 
-#Output:
+# Output:
 
-#Yes
+# True
