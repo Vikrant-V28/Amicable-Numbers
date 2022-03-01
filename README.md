@@ -6,6 +6,13 @@
 
 Amicable numbers are two different numbers related in such a way that the sum of the proper divisors of each is equal to the other number. The smallest pair of amicable numbers is (220, 284).
 
+### Prerequisites
+`Python 3`
+
+### How to run the script
+Execute 
+> python AmicableNumbers.py
+
 ### Python Script
 ```python
 import math
@@ -36,3 +43,6 @@ else:
 
 ### Output:
 `True`
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
